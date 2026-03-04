@@ -51,13 +51,13 @@ Each platform is engineered for:
 
 ## 🛠️ Core Stack
 
-`TypeScript` • `Vite.js` • `Serverless (Vercel)`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-`Android Systems` • `On-device AI (Edge inference)`
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![On--device AI](https://img.shields.io/badge/On--device%20AI%20(Edge%20Inference)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-`Quantitative Risk Modeling` • `Portfolio Math Engines`
+![Quantitative Risk Modeling](https://img.shields.io/badge/Quantitative%20Risk%20Modeling-0A66C2?style=for-the-badge&logo=databricks&logoColor=white) ![Portfolio Math Engines](https://img.shields.io/badge/Portfolio%20Math%20Engines-1A1A2E?style=for-the-badge&logo=wolfram&logoColor=white)
 
-`Secure API Orchestration` • `Deterministic Validation Layers`
+![Secure API Orchestration](https://img.shields.io/badge/Secure%20API%20Orchestration-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Deterministic Validation Layers](https://img.shields.io/badge/Deterministic%20Validation%20Layers-6A0DAD?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ---
 
