@@ -1,27 +1,66 @@
-# 💫 About Me:
-Saumya Sanghvi<br>Enterprise Architect | Financial Systems Infrastructure | AI-Augmented Capital Intelligence<br>I architect enterprise-grade financial intelligence platforms designed for scale, compliance, and long-term resilience.<br>My work sits at the intersection of product strategy, distributed systems, and quantitative finance — translating capital market complexity into modular, auditable, and performance-optimized architectures.<br>Architectural Focus<br>I design systems with:<br>Deterministic financial engines as authoritative cores<br>AI layers strictly for interpretability and augmentation<br>Privacy-first computation (data minimization by design)<br>Clear separation between compute, orchestration, and presentation layers<br>Failure-aware and adversarially robust infrastructure<br>Architecture is governance. Architecture is risk control. Architecture is trust.<br>Platforms Under Development<br>• Pramana Aegis – Adaptive allocation platform with on-device AI inference<br>• Pramana Terminal – AMC-grade portfolio analytics and attribution engine<br>• BlockVista Terminal – Multi-asset intelligence and signal architecture<br>Each platform is engineered for:<br>Scalability under capital load<br>Deterministic validation pipelines<br>Audit-ready explainability<br>Serverless deployment efficiency<br>Enterprise security posture<br>Systems Philosophy<br>Financial software must be capital-grade.<br>AI should enhance clarity, not replace control.<br>Privacy must be enforced architecturally, not contractually.<br>Every system must be observable, testable, and failure-aware.<br>Core Stack<br>TypeScript • Vite.js • Serverless (Vercel)<br>Android Systems • On-device AI (Edge inference)<br>Quantitative Risk Modeling • Portfolio Math Engines<br>Secure API Orchestration • Deterministic Validation Layers<br>Strategic Direction<br>Building enterprise-scale portfolio intelligence infrastructure for Indian and global capital markets — secure, modular, AI-augmented, and institution-ready.
+# 💫 About Me
 
+**Saumya Sanghvi**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ssanghvi03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ssanghvi03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssanghvi03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanghvi_saumya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saumyasanghvi03@gmail.com) 
+Enterprise Architect | Financial Systems Infrastructure | AI-Augmented Capital Intelligence
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saumyasanghvi03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saumyasanghvi03&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasanghvi03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I architect enterprise-grade financial intelligence platforms designed for scale, compliance, and long-term resilience.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saumyasanghvi03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saumyasanghvi03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My work sits at the intersection of product strategy, distributed systems, and quantitative finance — translating capital market complexity into modular, auditable, and performance-optimized architectures.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saumyasanghvi03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏛️ Architectural Focus
+
+I design systems with:
+
+- Deterministic financial engines as authoritative cores
+- AI layers strictly for interpretability and augmentation
+- Privacy-first computation (data minimization by design)
+- Clear separation between compute, orchestration, and presentation layers
+- Failure-aware and adversarially robust infrastructure
+
+> Architecture is governance. Architecture is risk control. Architecture is trust.
+
+---
+
+## 🚀 Platforms Under Development
+
+- **Pramana Aegis** – Adaptive allocation platform with on-device AI inference
+- **Pramana Terminal** – AMC-grade portfolio analytics and attribution engine
+- **BlockVista Terminal** – Multi-asset intelligence and signal architecture
+
+Each platform is engineered for:
+
+- Scalability under capital load
+- Deterministic validation pipelines
+- Audit-ready explainability
+- Serverless deployment efficiency
+- Enterprise security posture
+
+---
+
+## 🧭 Systems Philosophy
+
+- Financial software must be capital-grade.
+- AI should enhance clarity, not replace control.
+- Privacy must be enforced architecturally, not contractually.
+- Every system must be observable, testable, and failure-aware.
+
+---
+
+## 🛠️ Core Stack
+
+`TypeScript` • `Vite.js` • `Serverless (Vercel)`
+
+`Android Systems` • `On-device AI (Edge inference)`
+
+`Quantitative Risk Modeling` • `Portfolio Math Engines`
+
+`Secure API Orchestration` • `Deterministic Validation Layers`
+
+---
+
+## 🎯 Strategic Direction
+
+Building enterprise-scale portfolio intelligence infrastructure for Indian and global capital markets — secure, modular, AI-augmented, and institution-ready.
